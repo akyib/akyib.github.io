@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://akyib.github.io/JJx/sitemap.JJx.gz
